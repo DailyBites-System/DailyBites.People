@@ -6,7 +6,7 @@ The authentication and user management service for **DailyBites**, handling user
 
 ## Overview
 
-DailyBites.People is a microservice designed to manage user authentication and profile information. It provides secure user registration, login functionality, and JWT-based authorization using the huzcodes.Extensions library to ensure reliable access control across all DailyBites services.
+DailyBites.People is a microservice designed to manage user authentication and profile information. It provides secure user registration, login functionality, and JWT-based authorization using the **huzcodes.Extensions** library to ensure reliable access control across all DailyBites services.
 
 ## Key Features
 
